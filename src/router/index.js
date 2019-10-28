@@ -8,11 +8,11 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/HelloWorld',
+      path: '/',
       name: 'HelloWorld',
       component: HelloWorld
     },{
-      path: '/',
+      path: '/Cesium',
       name: 'Cesium',
       component: Cesium
     }
