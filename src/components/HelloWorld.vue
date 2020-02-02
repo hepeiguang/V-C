@@ -16,7 +16,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'three.js测试',
+      msg: 'three.js哈哈哈测试',
       cesium: 'cesium',
       camera: null,
       scene: null,
